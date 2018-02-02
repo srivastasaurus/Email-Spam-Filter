@@ -13,7 +13,7 @@ First extract equal number of spam and non-spam emails from Ling-spam Corpus.
 
 2. Creating a dictionary will help in counting the frequency of words in the data set.
 
-3. After the dictionary is prepared, extrac the feature vectors, as per training mail and its labels.   
+3. After the dictionary is prepared, extract the feature vectors as per training mail and its labels.   
 
 4. We'll be using scikit-learn ML librarry models- naive bayes classfier and SVM (to separate some of the training data from rest) for training classifiers. 
    
